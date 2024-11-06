@@ -1,3 +1,4 @@
+Wine Quality Prediction
 This project predicts wine quality based on various features using a RandomForestClassifier model. The model is trained on a wine dataset and utilizes GridSearchCV for hyperparameter tuning.
 
 Project Overview
