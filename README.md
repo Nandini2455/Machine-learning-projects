@@ -1,4 +1,6 @@
 Wine Quality Prediction
+
+
 This project predicts wine quality based on various features using a RandomForestClassifier model. The model is trained on a wine dataset and utilizes GridSearchCV for hyperparameter tuning.
 
 Project Overview
@@ -19,11 +21,13 @@ pH
 Sulphates
 Alcohol
 Quality (target variable)
+
+
 Results
 Best Parameters: Displayed based on the GridSearchCV optimization.
 Accuracy: The accuracy score of the model on the test dataset.
 Confusion Matrix and Classification Report: Detailed classification metrics.
-Usage
+
 To run the code:
 
 Load the dataset.
